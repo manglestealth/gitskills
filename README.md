@@ -1,3 +1,3 @@
 # gitskills
 git branch
-F2
+git f1
